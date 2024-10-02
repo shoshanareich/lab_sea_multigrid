@@ -1,0 +1,1 @@
+../../MITgcm/verification/lab_sea/run_nodiva_optimization.bash
